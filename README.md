@@ -1,14 +1,14 @@
 # LearnWebRTC
 收集一些关于WebRTC的资料
 ## 基础概念
-* [Signal server](#Signal-server)
+* [Signaling server](#Signaling-server)
 * [STUN/TURN server](#STUN/TURN-server)
 * [offer/answer](#offer/answer)
 * [IceCandidate](#IceCandidate)
 * [SDP](#SDP)
 * [NAT](#NAT)
 
-### Signal server
+### Signaling server
 > https://html5rocks.com/en/tutorials/webrtc/infrastructure/#what-is-signaling
 
 信令是协调通信的过程。为了让WebRTC应用建立一个呼叫，其客户端需要交换以下信息。
